@@ -1,0 +1,129 @@
+@font-face
+{
+	font-family: DIN Neuzeit Grotesk;  
+	src:url(../fonts/DIN%20Neuzeit%20Grotesk%20Bold.otf);
+}
+@fonr-face
+{
+	font-family: Lulo Clean;
+	src:url(../fonts/Lulo%20Clean%20One%20Bold.otf);
+}
+
+.button{
+	color: #FFF;
+	padding-left: 100vw;
+	font-size: 3vw !important;
+}
+.button:hover
+{ 
+  color: #666;
+}
+.s1p1
+{
+	font-size: 7.5vw;
+	color: #CCC;
+	padding-top: 20vw;
+	text-align:center;
+	font-family: Lulo Clean;
+}
+
+#section1
+{
+	width: 100vw;
+	height: 100vh;
+	background-image: url(../images/Enrique%20Iglesias%20HD%20download.jpg);
+	background-repeat:no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+	-moz-background-size:cover;
+	
+}
+#section2
+{
+	width: 100vw;
+	height: 75vh;
+	background-color: #000;	
+}
+.img1
+{
+	float:right;
+	margin-right: 6vw;
+	margin-top: -6.5vw;
+	height: 30vh;
+	width:30vw;
+}
+.p1
+{
+	
+	font-family: DIN Neuzeit Grotesk;
+	font-size: 1.3vw;
+	color:#FFF;
+	text-align: justify ;
+	margin-right: 40vw;
+	margin-left:  10vw;
+}
+.s2p1
+{
+	font-family: DIN Neuzeit Grotesk;
+	font-size: 4vw;
+	color:#FFF;
+	text-align: justify ;
+	margin-right: 40vw;
+	margin-left:  10vw;
+	padding-top: 4vw;
+}
+.hr1
+{
+width: 48vw;
+border-color: #FFF;
+margin-left : 10vw;
+}
+#section3
+{
+	width: 100vw;
+	height: 100vh;
+	background-color: #000;	
+}
+.hr2
+{
+width: 70vw;
+border-color: #FFF;
+margin-left : 10vw;
+margin-right : 10vw;
+}
+.h2
+{
+	font-family: Lulo Clean;
+	font-size: 1.8vw !important;
+	padding-left: 16.5vw;
+	padding-right:  -5vw;
+}
+a:link
+{
+	color: #3F9 !important;
+	text-decoration: none !important;
+}
+a:hover
+{
+	color: #C99 !important;
+}
+a:unvisited
+{
+	color: #0FF;
+}
+a:visited
+{
+	color: #0FF;
+}
+.s4img
+{
+	padding-left : 10vw;
+	padding-top : 2vw;
+	margin-right : -6vw; 
+}
+#img1
+{
+	height: 45vh;
+	width:30vw;
+}
